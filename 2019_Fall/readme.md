@@ -26,7 +26,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Bricker, Will
 
-- [ ] Chen, Victoria
+- [X] Chen, Victoria (@vicchenx)
 
 - [ ] Diaz, Raul
 
@@ -88,7 +88,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] OReilly, Samuel
 
-- [ ] Platt, Noah
+- [ ] Platt, Noah AKA Terrace House Convertee
 
 - [ ] Rana, Rohit
 
